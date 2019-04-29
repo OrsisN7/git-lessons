@@ -1,2 +1,2 @@
 print("Abyssal Hi")
-print("4e kak 4iki")
+print("everything is fine")
