@@ -1,0 +1,2 @@
+print("Abyssal Hi")
+print("4e kak 4iki")
